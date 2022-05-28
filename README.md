@@ -1,6 +1,6 @@
 # WHAT IS THIS
 
-A lil project ive been working on to detect fingers and do sumthin
+A lil project ive been working on to detect fingers and do sumthin; 
 just modified Hand Detection code by some tutorial + my ideas
 
 
@@ -16,10 +16,10 @@ I got asked to upload source when i told a friend about it so here it is! (check
 
 # INDICATORS
 
-⭐ => New File
-✨ => Update
-💥 => Instable 
-❔ => Unkown State
-🍝 => Spaghetti Code
-💤 => Discontinued File / Un-used
+⭐ => New File;
+✨ => Update;
+💥 => Instable; 
+❔ => Unkown State;
+🍝 => Spaghetti Code;
+💤 => Discontinued File / Un-used;
 
