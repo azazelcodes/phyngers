@@ -1,9 +1,7 @@
-Modified Hand Detection program by some tutorial + my ideas
-
-
 # WHAT IS THIS
 
 A lil project ive been working on to detect fingers and do sumthin
+just modified Hand Detection code by some tutorial + my ideas
 
 
 # CAN I USE THIS
