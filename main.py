@@ -9,7 +9,7 @@ import pyttsx3 as tts
 from playsound import playsound
 import asyncio
 
-# TIME SET
+# SET TIME
 startTime = time.time()
 currentTime = 0
 
