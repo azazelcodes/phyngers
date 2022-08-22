@@ -9,9 +9,9 @@ just modified Hand Detection code by some tutorial + my ideas
 Yeah ofc! just if you do reupload please credit
 
 
-# WHY UPLOADED (even though its a home project)
+# WHY UPLOADED (even though its a useless project)
 
-I got asked to upload source when i told a friend about it so here it is! (check em out ill link him here when he sends me his github)
+I got asked to upload the source when i told a friend about it so here it is! (check em out ill link him here when he sends me his github)
 
 
 # INDICATORS
